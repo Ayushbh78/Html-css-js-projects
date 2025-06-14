@@ -13,7 +13,7 @@ A modern, responsive login and sign-up form created using **HTML**, **CSS**, and
 
 ## 🛠️ Tech Stack
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
